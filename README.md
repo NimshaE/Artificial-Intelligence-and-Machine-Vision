@@ -1,0 +1,3 @@
+This project is a group study, focuses on grape classification using Machine Vision (MV) and Deep Learning techniques. By leveraging Convolutional Neural Networks (CNNs), the system identifies and classifies different grape varieties—such as Grape Blue, Grape Pink, and Grape White—based on visual features like color, texture, and shape. The dataset consists of high-quality images of grapes, which are preprocessed and fed into models like AlexNet, VGG, and EfficientNet to achieve accurate classification.
+
+The goal of this project is to enhance automated fruit sorting and quality assessment in agriculture, reducing manual effort while improving efficiency and accuracy in grape identification.
